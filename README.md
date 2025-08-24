@@ -137,10 +137,6 @@ Module này giới thiệu và thực hành các dịch vụ compute & storage c
 * [Lab tuần này – 000004](https://000004.awsstudygroup.com/vi/)
 * [Lab tuần trước – 000003](https://000003.awsstudygroup.com/vi/)
 
-Chuẩn rồi 🚀 mình sẽ bổ sung thêm **tài liệu chính thức AWS** + **link lab thực hành** để README recap của bạn đủ trọn bộ tham khảo và hands-on.
-
----
-
 ## Tài liệu tham khảo mở rộng
 
 ### 🔹 Compute
