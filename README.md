@@ -1,5 +1,5 @@
 
-# AWS Compute & Storage – Final Recap README
+# AWS Compute 
 
 ---
 
