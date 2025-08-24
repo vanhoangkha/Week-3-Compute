@@ -137,4 +137,11 @@ Module này giới thiệu và thực hành các dịch vụ compute & storage c
 * [Lab tuần này – 000004](https://000004.awsstudygroup.com/vi/)
 * [Lab tuần trước – 000003](https://000003.awsstudygroup.com/vi/)
 
+Amazon EC2: https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html
+Amazon Machine Images in Amazon EC2: https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html
+Amazon Lightsail: https://docs.aws.amazon.com/lightsail/latest/userguide/what-is-amazon-lightsail.html
+Amazon Elastic File System: https://docs.aws.amazon.com/efs/latest/ug/whatisefs.html
+FSx for Windows File Server: https://docs.aws.amazon.com/fsx/latest/WindowsGuide/what-is.html
+Auto Scaling groups: https://docs.aws.amazon.com/autoscaling/ec2/userguide/auto-scaling-groups.html
+Elastic Load Balancing: https://docs.aws.amazon.com/autoscaling/ec2/userguide/autoscaling-load-balancer.html
 
