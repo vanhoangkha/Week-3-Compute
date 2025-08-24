@@ -137,15 +137,4 @@ Module này giới thiệu và thực hành các dịch vụ compute & storage c
 * [Lab tuần này – 000004](https://000004.awsstudygroup.com/vi/)
 * [Lab tuần trước – 000003](https://000003.awsstudygroup.com/vi/)
 
-### AWS Workshops
 
-* [EC2 Workshop](https://ec2.workshop.aws/)
-* [EFS Workshop](https://catalog.workshops.aws/efs)
-* [FSx for Windows](https://catalog.workshops.aws/fsx-for-windows)
-* [FSx for Lustre](https://catalog.workshops.aws/fsx-for-lustre)
-* [Lightsail WordPress Lab](https://lightsail.aws.amazon.com/ls/docs/en_us/articles/lightsail-tutorial-launching-and-managing-wordpress)
-
-
----
-
-Ly có muốn mình soạn thêm **slide version** (mỗi section 1–2 bullet gọn để trình chiếu) từ README này không?
