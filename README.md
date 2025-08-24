@@ -137,11 +137,31 @@ Module này giới thiệu và thực hành các dịch vụ compute & storage c
 * [Lab tuần này – 000004](https://000004.awsstudygroup.com/vi/)
 * [Lab tuần trước – 000003](https://000003.awsstudygroup.com/vi/)
 
-Amazon EC2: https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html
-Amazon Machine Images in Amazon EC2: https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html
-Amazon Lightsail: https://docs.aws.amazon.com/lightsail/latest/userguide/what-is-amazon-lightsail.html
-Amazon Elastic File System: https://docs.aws.amazon.com/efs/latest/ug/whatisefs.html
-FSx for Windows File Server: https://docs.aws.amazon.com/fsx/latest/WindowsGuide/what-is.html
-Auto Scaling groups: https://docs.aws.amazon.com/autoscaling/ec2/userguide/auto-scaling-groups.html
-Elastic Load Balancing: https://docs.aws.amazon.com/autoscaling/ec2/userguide/autoscaling-load-balancer.html
+Chuẩn rồi 🚀 mình sẽ bổ sung thêm **tài liệu chính thức AWS** + **link lab thực hành** để README recap của bạn đủ trọn bộ tham khảo và hands-on.
+
+---
+
+## Tài liệu tham khảo mở rộng
+
+### 🔹 Compute
+
+* [Amazon EC2 – Concepts](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html)
+* [Amazon Machine Images (AMI)](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html)
+* [Amazon Lightsail – What is Lightsail?](https://docs.aws.amazon.com/lightsail/latest/userguide/what-is-amazon-lightsail.html)
+* [Amazon EC2 Auto Scaling Groups](https://docs.aws.amazon.com/autoscaling/ec2/userguide/auto-scaling-groups.html)
+* [Elastic Load Balancing with Auto Scaling](https://docs.aws.amazon.com/autoscaling/ec2/userguide/autoscaling-load-balancer.html)
+
+### 🔹 Storage
+
+* [Amazon Elastic Block Store (EBS)](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AmazonEBS.html)
+* [Amazon Elastic File System (EFS)](https://docs.aws.amazon.com/efs/latest/ug/whatisefs.html)
+* [Amazon FSx for Windows File Server](https://docs.aws.amazon.com/fsx/latest/WindowsGuide/what-is.html)
+* [Amazon FSx for Lustre](https://docs.aws.amazon.com/fsx/latest/LustreGuide/what-is.html)
+* [Amazon FSx for NetApp ONTAP](https://docs.aws.amazon.com/fsx/latest/ONTAPGuide/what-is.html)
+* [Amazon FSx for OpenZFS](https://docs.aws.amazon.com/fsx/latest/OpenZFSGuide/what-is.html)
+* [Amazon S3 – Overview](https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html)
+
+
+
+
 
